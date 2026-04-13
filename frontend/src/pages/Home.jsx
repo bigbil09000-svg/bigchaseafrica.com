@@ -95,7 +95,7 @@ export const Home = () => {
               Why Choose BIGCHASE GAS?
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              We're committed to providing the safest and most reliable LPG delivery service
+              We're committed to providing the safest and most reliable Cooking Gas delivery service
             </p>
           </div>
 
@@ -130,7 +130,7 @@ export const Home = () => {
               Our Services
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Comprehensive LPG solutions for homes and businesses
+              Comprehensive Cooking Gas solutions for homes and businesses
             </p>
           </div>
 
@@ -235,7 +235,7 @@ export const Home = () => {
             Ready to Get Started?
           </h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Order your LPG today and experience premium, clean energy delivered right to your doorstep
+            Order your Cooking Gas today and experience premium, clean energy delivered right to your doorstep
           </p>
           <Link to="/order">
             <Button className="bg-[#ff6b35] hover:bg-[#e55a2b] text-white font-semibold px-10 py-6 text-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
